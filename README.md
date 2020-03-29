@@ -1,0 +1,2 @@
+# ScheduleConverter_gas
+入力月と勤務パターンから各日のスケジュールを可視化するGoogle Apps Script
